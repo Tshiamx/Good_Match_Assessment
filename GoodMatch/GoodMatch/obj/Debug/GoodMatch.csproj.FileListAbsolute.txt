@@ -1,0 +1,7 @@
+C:\Users\Tshiamo Twist\source\repos\GoodMatch\GoodMatch\bin\Debug\GoodMatch.exe.config
+C:\Users\Tshiamo Twist\source\repos\GoodMatch\GoodMatch\bin\Debug\GoodMatch.exe
+C:\Users\Tshiamo Twist\source\repos\GoodMatch\GoodMatch\bin\Debug\GoodMatch.pdb
+C:\Users\Tshiamo Twist\source\repos\GoodMatch\GoodMatch\obj\Debug\GoodMatch.csprojAssemblyReference.cache
+C:\Users\Tshiamo Twist\source\repos\GoodMatch\GoodMatch\obj\Debug\GoodMatch.csproj.CoreCompileInputs.cache
+C:\Users\Tshiamo Twist\source\repos\GoodMatch\GoodMatch\obj\Debug\GoodMatch.exe
+C:\Users\Tshiamo Twist\source\repos\GoodMatch\GoodMatch\obj\Debug\GoodMatch.pdb
